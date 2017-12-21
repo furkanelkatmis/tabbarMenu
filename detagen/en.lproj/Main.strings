@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "@"; ObjectID = "BOQ-pB-Obt"; */
+"BOQ-pB-Obt.text" = "@";
+
+/* Class = "UIButton"; normalTitle = "0352 231 31 23"; ObjectID = "Bm3-A4-gDG"; */
+"Bm3-A4-gDG.normalTitle" = "0352 231 31 23";
+
+/* Class = "UIBarButtonItem"; title = "GÜVENLİ ÇIKIŞ"; ObjectID = "DS2-AQ-vhg"; */
+"DS2-AQ-vhg.title" = "GÜVENLİ ÇIKIŞ";
+
+/* Class = "UITabBarItem"; title = "Sonuclar"; ObjectID = "DVz-hI-FTh"; */
+"DVz-hI-FTh.title" = "Sonuclar";
+
+/* Class = "UILabel"; text = "ADRES:"; ObjectID = "Ivd-CG-XGv"; */
+"Ivd-CG-XGv.text" = "ADRES:";
+
+/* Class = "UINavigationItem"; title = "İLETİŞİM"; ObjectID = "LfX-tE-BnJ"; */
+"LfX-tE-BnJ.title" = "İLETİŞİM";
+
+/* Class = "UIButton"; normalTitle = "bilgi@detagen.com.tr"; ObjectID = "NOa-Bc-KLU"; */
+"NOa-Bc-KLU.normalTitle" = "bilgi@detagen.com.tr";
+
+/* Class = "UITabBarItem"; title = "Kurumsal"; ObjectID = "YMo-5f-52O"; */
+"YMo-5f-52O.title" = "Kurumsal";
+
+/* Class = "UITabBarItem"; title = "iletşim"; ObjectID = "hy3-Zt-q3o"; */
+"hy3-Zt-q3o.title" = "iletşim";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "khl-VF-i9c"; */
+"khl-VF-i9c.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Galeri"; ObjectID = "uf8-IW-DbE"; */
+"uf8-IW-DbE.title" = "Galeri";
+
+/* Class = "UILabel"; text = "Tacettin Veli Mh. Delikli Taş Cd No:12-A  Melikgazi / Kayseri"; ObjectID = "yw0-BR-xzw"; */
+"yw0-BR-xzw.text" = "Tacettin Veli Mh. Delikli Taş Cd No:12-A  Melikgazi / Kayseri";
